@@ -1,0 +1,397 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="7HkioV3xXDfK5RIxgbAx">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="igTgt_d10PxNEicNi55A-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Text%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%2270%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="40" width="530" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="igTgt_d10PxNEicNi55A-2" target="igTgt_d10PxNEicNi55A-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-4" value="AppName" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-5" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-6" value="Quiz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-7" value="Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-8" value="Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-10" value="Search bar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="70" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-11" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="289" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-12" value="Some Text&lt;div&gt;(Welcome to AppName)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Subheading Paragraph&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="160" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-13" value="Take quiz" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-14" value="SignUp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="350" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-15" value="Leaderboard" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="229" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="470" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="354" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-21" value="ViewProfile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="229" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-22" value="ViewProfile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-23" value="ViewProfile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-24" value="@username" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="229" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-25" value="@username" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="349" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-26" value="@username" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.942;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="igTgt_d10PxNEicNi55A-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="640" as="sourcePoint" />
+            <mxPoint x="661" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-28" value="Feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-29" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-30" value="About" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-31" value="Contact" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="506" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-32" value="Home Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-33" value="Profile Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="790" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="820" width="530" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-38" value="UserName Profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="309" y="920" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-41" value="Edit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="310" y="960" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-42" value="Delete" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#FFBC26;strokeWidth=1;fillColor=none;fontColor=#FFBC26;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="399" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="219" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-46" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="244" y="1050" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-47" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1010" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-48" value="Full Name" style="text;strokeColor=#DFDFDF;fillColor=#F7F7F7;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#333333;" parent="igTgt_d10PxNEicNi55A-47" vertex="1">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-49" value="Sex" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#333333;" parent="igTgt_d10PxNEicNi55A-47" vertex="1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-50" value="Location" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#333333;" parent="igTgt_d10PxNEicNi55A-47" vertex="1">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-51" value="Bio" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.bottomButton;rSize=5;fontColor=#333333;" parent="igTgt_d10PxNEicNi55A-47" vertex="1">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-52" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1140" width="470" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-53" value="Quiz attended by @username" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1169" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-54" value="Quiz stats" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1199" width="196" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;fillColor=#10739E;strokeColor=none;startAngle=0.2;endAngle=0.9;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1224.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-58" value="user performance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1169" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-65" value="" style="html=1;shadow=0;dashed=0;fillColor=#E3F3FD;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="130" y="820" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-66" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;resizeWidth=0;" parent="igTgt_d10PxNEicNi55A-65" vertex="1">
+          <mxGeometry y="10" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-67" value="Navbar" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=15;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#161819;fontSize=16;" parent="igTgt_d10PxNEicNi55A-66" vertex="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-68" value="Home" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#161819;fontSize=14;" parent="igTgt_d10PxNEicNi55A-66" vertex="1">
+          <mxGeometry x="80" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-69" value="Features" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#71797E;fontSize=14;" parent="igTgt_d10PxNEicNi55A-66" vertex="1">
+          <mxGeometry x="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-72" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#0085FC;strokeColor=#0085FC;fillColor=none;" parent="igTgt_d10PxNEicNi55A-65" vertex="1">
+          <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-73" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" parent="igTgt_d10PxNEicNi55A-65" vertex="1">
+          <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-92" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1460" width="530" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-93" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1430" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-94" value="Home" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="igTgt_d10PxNEicNi55A-93" vertex="1">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-95" value="Feedback" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="igTgt_d10PxNEicNi55A-93" vertex="1">
+          <mxGeometry x="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-96" value="About" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="igTgt_d10PxNEicNi55A-93" vertex="1">
+          <mxGeometry x="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-97" value="Contact" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=inherit;fontColor=#7D868C;fontSize=14;" parent="igTgt_d10PxNEicNi55A-93" vertex="1">
+          <mxGeometry x="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-102" value="All Quiz page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1580" width="530" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-105" value="" style="html=1;shadow=0;dashed=0;fillColor=#E3F3FD;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1580" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-106" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;resizeWidth=0;" parent="igTgt_d10PxNEicNi55A-105" vertex="1">
+          <mxGeometry y="10" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-107" value="Navbar" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=15;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#161819;fontSize=16;" parent="igTgt_d10PxNEicNi55A-106" vertex="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-108" value="Home" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#161819;fontSize=14;" parent="igTgt_d10PxNEicNi55A-106" vertex="1">
+          <mxGeometry x="80" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-109" value="Features" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#71797E;fontSize=14;" parent="igTgt_d10PxNEicNi55A-106" vertex="1">
+          <mxGeometry x="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-110" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#0085FC;strokeColor=#0085FC;fillColor=none;" parent="igTgt_d10PxNEicNi55A-105" vertex="1">
+          <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-111" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" parent="igTgt_d10PxNEicNi55A-105" vertex="1">
+          <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-112" value="All Quizes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="299" y="1650" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-113" value="All" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1690" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-114" value="Tag 1" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1690" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-115" value="Search" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1740" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-116" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1740" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-124" value="Tag 2" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="314" y="1690" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-125" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Quiz title&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#6c767d&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Total Questions&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Description" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1800" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-126" value="Start" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" parent="igTgt_d10PxNEicNi55A-125" vertex="1">
+          <mxGeometry y="1" width="60.800000000000004" height="40" relative="1" as="geometry">
+            <mxPoint y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-127" value="Upload time" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" parent="igTgt_d10PxNEicNi55A-125" vertex="1">
+          <mxGeometry y="1" width="76" height="40" relative="1" as="geometry">
+            <mxPoint x="114" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-129" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Quiz title&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#6c767d&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Total Questions&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Description" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1980" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-130" value="Start" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" parent="igTgt_d10PxNEicNi55A-129" vertex="1">
+          <mxGeometry y="1" width="60.800000000000004" height="40" relative="1" as="geometry">
+            <mxPoint y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-131" value="Upload time" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" parent="igTgt_d10PxNEicNi55A-129" vertex="1">
+          <mxGeometry y="1" width="76" height="40" relative="1" as="geometry">
+            <mxPoint x="114" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-132" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Quiz title&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#6c767d&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Total Questions&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Description" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1800" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-133" value="Start" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" parent="igTgt_d10PxNEicNi55A-132" vertex="1">
+          <mxGeometry y="1" width="60.800000000000004" height="40" relative="1" as="geometry">
+            <mxPoint y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-134" value="Upload time" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" parent="igTgt_d10PxNEicNi55A-132" vertex="1">
+          <mxGeometry y="1" width="76" height="40" relative="1" as="geometry">
+            <mxPoint x="114" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-138" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="2220" width="530" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-139" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="2190" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-140" value="Home" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="igTgt_d10PxNEicNi55A-139" vertex="1">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-141" value="Feedback" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="igTgt_d10PxNEicNi55A-139" vertex="1">
+          <mxGeometry x="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-142" value="About" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="igTgt_d10PxNEicNi55A-139" vertex="1">
+          <mxGeometry x="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-143" value="Contact" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=inherit;fontColor=#7D868C;fontSize=14;" parent="igTgt_d10PxNEicNi55A-139" vertex="1">
+          <mxGeometry x="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-144" value="Single Quiz Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="2300" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="2330" width="530" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-146" value="" style="html=1;shadow=0;dashed=0;fillColor=#E3F3FD;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="130" y="2330" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-147" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;resizeWidth=0;" parent="igTgt_d10PxNEicNi55A-146" vertex="1">
+          <mxGeometry y="10" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-148" value="Navbar" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=15;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#161819;fontSize=16;" parent="igTgt_d10PxNEicNi55A-147" vertex="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-149" value="Home" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#161819;fontSize=14;" parent="igTgt_d10PxNEicNi55A-147" vertex="1">
+          <mxGeometry x="80" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-150" value="Features" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#71797E;fontSize=14;" parent="igTgt_d10PxNEicNi55A-147" vertex="1">
+          <mxGeometry x="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-151" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#0085FC;strokeColor=#0085FC;fillColor=none;" parent="igTgt_d10PxNEicNi55A-146" vertex="1">
+          <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-152" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" parent="igTgt_d10PxNEicNi55A-146" vertex="1">
+          <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-153" value="Quiz Title - (No. of questions)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="264" y="2420" width="246" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="igTgt_d10PxNEicNi55A-154" value="Description" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="292" y="2490" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-1" value="Date Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="2520" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-2" value="Time Limit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="506" y="2520" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-9" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=0;dy=30;" parent="1" vertex="1">
+          <mxGeometry x="184" y="2570" width="426" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-10" value="Option 1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=1;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="2640" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-11" value="Option 2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="2660" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-12" value="Option 3" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;fontColor=#6C767D;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="2680" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-14" value="Question 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="2570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-16" value="Option 4" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;fontColor=#6C767D;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="2700" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-17" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="2750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-18" value="Question" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="2600" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-19" value="Submit Quiz" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#33A64C;strokeWidth=1;fillColor=none;fontColor=#33A64C;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="184" y="2830" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-21" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="2970" width="530" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-22" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="2940" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-23" value="Home" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="SmysFkv4zoDDJamD6pbQ-22" vertex="1">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-24" value="Feedback" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="SmysFkv4zoDDJamD6pbQ-22" vertex="1">
+          <mxGeometry x="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-25" value="About" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" parent="SmysFkv4zoDDJamD6pbQ-22" vertex="1">
+          <mxGeometry x="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-26" value="Contact" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=inherit;fontColor=#7D868C;fontSize=14;" parent="SmysFkv4zoDDJamD6pbQ-22" vertex="1">
+          <mxGeometry x="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-27" value="Login Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="3060" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmysFkv4zoDDJamD6pbQ-28" value="Registration Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="3060" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
